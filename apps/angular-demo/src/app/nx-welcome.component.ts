@@ -435,6 +435,8 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
             <span> Hello there, </span>
             Welcome angular-demo 👋
           </h1>
+          <br>
+          <my-greeting title="angular"></my-greeting>
         </div>
 
         <!--  HERO  -->

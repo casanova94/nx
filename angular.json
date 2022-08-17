@@ -3,6 +3,9 @@
   "version": 2,
   "projects": {
     "angular-demo": "apps/angular-demo",
-    "angular-demo-e2e": "apps/angular-demo-e2e"
+    "angular-demo-e2e": "apps/angular-demo-e2e",
+    "lib-shared": "libs/lib-shared",
+    "react-demo": "apps/react-demo",
+    "react-demo-e2e": "apps/react-demo-e2e"
   }
 }
